@@ -1,5 +1,4 @@
 # Imersao_Alura_e_Gemini
-## **README.md**
 
 ### **Busca de Atletas: Seu Portal para o Mundo Esportivo!** 
 
@@ -31,7 +30,7 @@ Quer ajudar a melhorar essa aplicação? Fique à vontade para abrir um pull req
 
 **Agradecimentos:**
 
-Agradecemos a todos que contribuíram para este projeto! 
+Sou muito grato à equipe da Alura e aos instrutores Guilherme Lima, Rafaella Ballerini e Luciano Martins por essa imersão Dev espetacular! A didática de vocês e a organização do evento foram impecáveis! 
 
 **Observações:**
 
@@ -42,16 +41,3 @@ Agradecemos a todos que contribuíram para este projeto!
 **Vamos juntos construir uma comunidade apaixonada por esportes!** 
 
 **#desenvolvimentoweb #javascript #html #css #esportes #olimpiadas**
-
-**Observações:**
-
-* **Personalize:** Adapte este README para refletir a sua personalidade e o estilo do seu projeto.
-* **Imagens:** Adicione imagens para tornar o README mais visualmente atraente.
-* **Links:** Inclua links para seus perfis nas redes sociais ou para outros projetos.
-* **Licença:** Especifique a licença do seu projeto (por exemplo, MIT).
-
-**Com este README, você terá um guia completo e informativo para o seu projeto, facilitando a compreensão e o uso para outras pessoas.**
-
-**Dica:** Use um gerador de README online para te ajudar a criar um README profissional e personalizado.
-
-**Gostaria de adicionar mais alguma coisa ao README?**
